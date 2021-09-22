@@ -6,3 +6,20 @@
     width: 50%;
     margin: 0 auto;
 }
+.header nav {
+    background-color: rgb(26, 29, 29);
+    padding: 0.5em 0;
+    
+}
+.header nav a {
+    font-size: 1.2em;
+    color: aquamarine;
+    padding: .2em 2em;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.header nav a:hover {
+    background-color: rgba(194, 245, 245, 0.445);
+    color: rgb(247, 253, 253);
+}
